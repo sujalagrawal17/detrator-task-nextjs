@@ -1,0 +1,1 @@
+# detrator-task-nextjs
